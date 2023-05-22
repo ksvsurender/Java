@@ -1,3 +1,6 @@
+/* Write a program that accepts a number N and print weather it is positive negative or zero */
+
+
 class Number
 {
 public static void main (String args[])
